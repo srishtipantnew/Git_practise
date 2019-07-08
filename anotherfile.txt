@@ -1,1 +1,1 @@
-some bad commit
+some bad commit revert
